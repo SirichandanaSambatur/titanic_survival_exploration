@@ -4,7 +4,7 @@ In this project, decision functions were created to predict survival outcomes fr
 Initially a simple algorithm was developed and then the complexity of this algorithm was increased to improve efficiency of the algorithm. An efficiency of 80.36% was achieved to predict the survival outcomes of the passengers.
 This project contains three files:
 
-- `titanic_survival_exploration.ipynb`: This is the main file where you will be performing your work on the project.
+- `titanic_survival_exploration.ipynb`: This is the main file where all the work for the project is performed.
 - `titanic_data.csv`: The project dataset. You?ll load this data in the notebook.
 - `visuals.py`: This Python script provides supplementary visualizations for the project. 
 
