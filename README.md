@@ -16,3 +16,6 @@ This project uses the following software and Python libraries:
 - [NumPy](http://www.numpy.org/)
 - [pandas](http://pandas.pydata.org/)
 - [matplotlib](http://matplotlib.org/)
+
+## Running the project
+The project is built in an iPython notebook and a notebook application such as 'iPython' or 'Jupyter Notebook' is required for running the project. To run the project, open the '.ipynb' file with a notebook application and run all the cells. The analysis of the dataset can also be seen in the '.html' file without actually running the project.
